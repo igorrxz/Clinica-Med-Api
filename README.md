@@ -6,9 +6,9 @@ Este projeto é uma API REST desenvolvida para a clínica médica Voll Med, util
 
 ## Conteúdo
 
-- Introdução {#Introdução}
+- Introdução
 
-- Principais Funcionalidades {#Principais-Funcionalidades}
+- Principais Funcionalidades
 
 - Tecnologias Utilizadas
 
