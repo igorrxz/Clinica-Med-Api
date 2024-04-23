@@ -7,13 +7,20 @@ Este projeto é uma API REST desenvolvida para a clínica médica Voll Med, util
 ## Conteúdo
 
 Introdução
+
 Principais Funcionalidades
+
 Tecnologias Utilizadas
+
 Como Usar
+
 Contribuição
+
 Autores
+
 Licença
-Introdução
+
+## Introdução
 Neste projeto, você encontrará uma API robusta e escalável desenvolvida com Spring Boot. Nosso objetivo é oferecer uma solução completa para gerenciar informações da clínica médica Voll Med de forma eficiente e segura.
 
 ## Principais Funcionalidades
